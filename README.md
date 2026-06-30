@@ -1,2 +1,2 @@
 # Steve
-Powershell collector + ai tool reader
+Powershell collector + ai collector reader for system diognoseis  
